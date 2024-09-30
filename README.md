@@ -1,7 +1,4 @@
----
-title: Compile OpenMP on Perlmutter
-layout: main
----
+# Hello! OpenMP
 
 Due 2024-10-08.
 
