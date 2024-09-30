@@ -21,4 +21,6 @@ srun -n 1 -N 1 -p development -t 00:05:00 --pty /bin/bash -l
 
 You have one task:
 
-- Compile and run `omp_hello.cpp`and screenshot its output on Perlmutter.
+- Compile and run [`omp_hello.cpp`] and screenshot its output on Perlmutter.
+
+[`omp_hello.cpp`]: https://github.com/cs5220-f24/hw2
